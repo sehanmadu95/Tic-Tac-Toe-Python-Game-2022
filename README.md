@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic Tac Toe game
 Python Tic Tac Toe Game
 Used Jupyter Note Book
 Develop by: J A S Madushanka
